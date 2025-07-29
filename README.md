@@ -33,6 +33,14 @@ Soldering connections
 
 ![270339D7-D659-44CE-8A05-BBE9BD13E787_1_105_c](https://github.com/user-attachments/assets/9b7ee3f9-3413-43ed-ada2-879a2e9ec1db)
 
+**Update #4**
+
+Completing all the connections to be made
+
+![49696ED0-765E-44A6-BF2E-51F7A20C5DF1_1_105_c](https://github.com/user-attachments/assets/2e17fe8d-c317-4e58-8933-7e52d84b4eb8)
+
+
+
 
  
 
