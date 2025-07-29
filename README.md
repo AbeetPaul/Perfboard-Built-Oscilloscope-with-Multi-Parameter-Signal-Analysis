@@ -19,3 +19,11 @@ Components Required:
 Circuit Diagram:
 
 <img width="1367" height="757" alt="Screenshot 2025-07-30 at 4 37 44 AM" src="https://github.com/user-attachments/assets/a83d4b1c-9c1a-47f4-a121-4033854c817e" />
+
+Update #2
+
+Trying to implement the circuit on a perfboard acccording to the circuit diagram
+
+![9CB68489-0EA3-44A3-A66B-AF76F800667D_1_105_c](https://github.com/user-attachments/assets/e7e09b76-bd59-40c0-a349-56d4d2e25878)
+
+
