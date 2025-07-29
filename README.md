@@ -18,5 +18,4 @@ Components Required:
 
 Circuit Diagram:
 
-<img width="674" height="386" alt="Screenshot 2025-07-25 at 11 59 01 PM" src="https://github.com/user-attachments/assets/e6fd6882-fdf8-44fe-8cd1-eb50ea5f3cdf" />
-
+<img width="1367" height="757" alt="Screenshot 2025-07-30 at 4 37 44 AM" src="https://github.com/user-attachments/assets/a83d4b1c-9c1a-47f4-a121-4033854c817e" />
