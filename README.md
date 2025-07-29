@@ -20,10 +20,19 @@ Circuit Diagram:
 
 <img width="1367" height="757" alt="Screenshot 2025-07-30 at 4 37 44 AM" src="https://github.com/user-attachments/assets/a83d4b1c-9c1a-47f4-a121-4033854c817e" />
 
-Update #2
+**Update #2**
 
 Trying to implement the circuit on a perfboard acccording to the circuit diagram
 
 ![9CB68489-0EA3-44A3-A66B-AF76F800667D_1_105_c](https://github.com/user-attachments/assets/e7e09b76-bd59-40c0-a349-56d4d2e25878)
+ 
+ 
+**Update #3**
 
+Soldering connections
+
+![270339D7-D659-44CE-8A05-BBE9BD13E787_1_105_c](https://github.com/user-attachments/assets/9b7ee3f9-3413-43ed-ada2-879a2e9ec1db)
+
+
+ 
 
