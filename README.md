@@ -39,6 +39,11 @@ Completing all the connections to be made
 
 ![49696ED0-765E-44A6-BF2E-51F7A20C5DF1_1_105_c](https://github.com/user-attachments/assets/2e17fe8d-c317-4e58-8933-7e52d84b4eb8)
 
+Front View: 
+
+![8561F995-44E1-4842-81B6-E2C26027011C_1_105_c](https://github.com/user-attachments/assets/b46badfc-fd71-4cdc-b97a-a093d694d3ff)
+
+
 
 
 
